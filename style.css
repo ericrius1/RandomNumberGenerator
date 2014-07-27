@@ -1,6 +1,16 @@
-.container{
-  position: absolute;
-  top: 50%;
-  left: 30%;
+body{
+  background-color: green;
+  color: blue;
+}
+
+.intro{
   font-size: 2em;
+  text-align: center;
+}
+
+#number{
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  font-size: 4em;
 }
