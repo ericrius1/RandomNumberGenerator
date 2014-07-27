@@ -1,3 +1,4 @@
+window.scrollTo(0,1);
 document.addEventListener( 'mousedown', mousedown, false );
 var height = window.innerHeight;
 var evens = [2,4,6,8,10];
